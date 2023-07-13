@@ -1,0 +1,7 @@
+{
+  "magicDelay": "100",
+  "rateLimitBypass": true,
+  "announce": true,
+  "skinchange": true,
+  "logTimes": true
+}

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jda-chewtils-command-1.24.1-all">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/jda-chewtils-command-1.24.1-all.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
