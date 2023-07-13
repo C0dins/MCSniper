@@ -13,7 +13,7 @@ import java.util.Date;
 
 public class WebhookManager {
 
-    private String hook = "https://discordapp.com/api/webhooks/968232170164473917/iBU-djJVR6KD37IkWflwH-ggDkfyHd2126n3cMxANRzNJwJkFtH34ymqCTQM4HpW6Ol5";
+    private String hook = "yourwebhookhere";
 
     public WebhookManager(){
         Logger.log(LogType.GENERAL, "Successfully setup webhook manager!");

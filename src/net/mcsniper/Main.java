@@ -42,7 +42,7 @@ public class Main {
 
     public static void main(String[] args) throws LoginException, InterruptedException, FileNotFoundException {
         Logger.printLogo();
-        databaseManager = new DatabaseManager("jdbc:mysql://127.0.0.1:3306/mcsniper?autoReconnect=true", "mcsniper", "V7UbRstZMmdfZtBqKGmMS838Wy9d2vDYLjWbApUr5ZnQ7xZQ2YdB6dCBq8aUWKfyGxYCNqN95B2YRWE8RDX9YLCenXcmFAPWH69Rm5KfY7X7LJc7BdQdKsE78Cgq8PQ2");
+        databaseManager = new DatabaseManager("jdbc:mysql://127.0.0.1:3306/mcsniper?autoReconnect=true", "sniper", "test123");
 
         DiscordBot bot = new DiscordBot();
         Thread botThread = new Thread(bot);
